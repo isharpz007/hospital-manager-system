@@ -1,0 +1,56 @@
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\Odi HMS PROJECT alph.exe.config
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\Odi HMS PROJECT alph.exe
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\Odi HMS PROJECT alph.pdb
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\obj\Debug\Odi HMS PROJECT alph.csproj.AssemblyReference.cache
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\obj\Debug\Odi_HMS_PROJECT_alph.Login.resources
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\obj\Debug\Odi_HMS_PROJECT_alph.Properties.Resources.resources
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\obj\Debug\Odi HMS PROJECT alph.csproj.GenerateResource.cache
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\obj\Debug\Odi HMS PROJECT alph.csproj.CoreCompileInputs.cache
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\obj\Debug\Odi HMS PROJECT alph.exe
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\obj\Debug\Odi HMS PROJECT alph.pdb
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\hmsDb.mdf
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\hmsDb_log.ldf
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\obj\Debug\Odi_HMS_PROJECT_alph.Doctor.resources
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\obj\Debug\Odi_HMS_PROJECT_alph.Home.resources
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\obj\Debug\Odi_HMS_PROJECT_alph.Patient.resources
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\obj\Debug\Odi_HMS_PROJECT_alph.Diagnosis.resources
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\obj\Debug\Odi_HMS_PROJECT_alph.receptionist.resources
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\obj\Debug\Odi_HMS_PROJECT_alph.store.resources
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\obj\Debug\Odi_HMS_PROJECT_alph.Appointment.resources
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\obj\Debug\Odi_HMS_PROJECT_alph.test.resources
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\obj\Debug\Odi_HMS_PROJECT_alph.Register.resources
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\obj\Debug\Odi_HMS_PROJECT_alph.ROOM.resources
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\obj\Debug\Odi_HMS_PROJECT_alph.Room2.resources
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\Google.Protobuf.dll
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\MySql.Data.dll
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\NuGet.Frameworks.dll
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\System.Buffers.dll
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\System.IO.Pipelines.dll
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\System.Memory.dll
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\ZstdSharp.dll
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\Google.Protobuf.pdb
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\Google.Protobuf.xml
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\MySql.Data.xml
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\System.Buffers.xml
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\System.IO.Pipelines.xml
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\System.Memory.xml
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\odian\source\repos\Odi HMS PROJECT alph\Odi HMS PROJECT alph\obj\Debug\Odi HMS .DB1F9367.Up2Date
